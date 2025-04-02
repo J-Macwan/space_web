@@ -1,5 +1,5 @@
 import React, { useState, useRef, useCallback } from "react";
-import VideoPost from "./VideoPost";
+import VideoPost from "./VideoPost"; // Updated path
 import "./VideoFeed.css"; // optional
 
 function VideoFeed() {

@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import "./Post.css";
-import VideoPlayer from "./VideoPlayer";
+import VideoPlayer from "./VideoPlayer"; // Updated path
 
 function Post({ post }) {
   const [likes, setLikes] = useState(post.likes || 0);

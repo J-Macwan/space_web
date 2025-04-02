@@ -1,5 +1,5 @@
 import React, { useState, useRef, useCallback } from "react";
-import Post from "./Post";
+import Post from "./components/Post";
 import "./Feed.css";
 
 function Feed() {

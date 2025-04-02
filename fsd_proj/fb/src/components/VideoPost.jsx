@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import VideoPlayer from "./VideoPlayer";
+import VideoPlayer from "./components/VideoPlayer"; // Updated path
 import "./VideoPost.css"; // optional for styling
 
 function VideoPost({ video }) {

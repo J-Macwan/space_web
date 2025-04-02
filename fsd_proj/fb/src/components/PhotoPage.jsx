@@ -1,6 +1,6 @@
 import React from "react";
 import "./PhotoPage.css";
-import PhotoCard from "./PhotoCard";
+import PhotoCard from "./components/PhotoCard"; // Updated path
 
 const PhotoPage = () => {
   // Dummy data for photos

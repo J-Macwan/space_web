@@ -1,6 +1,6 @@
 import React from "react";
 import "./WatchPage.css";
-import VideoCard from "./VideoCard";
+import VideoCard from "./components/VideoCard"; // Updated path
 
 const WatchPage = () => {
   // Dummy data for videos

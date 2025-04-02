@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Reel from "./Reel";
+import Reel from "./components/Reel"; // Updated path
 import "./ReelsFeed.css";
 
 function ReelsFeed() {
